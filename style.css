@@ -1,0 +1,159 @@
+/* Universal */
+ul {
+    list-style: none;
+    padding-left: 0;
+}
+
+a {
+    text-decoration: none;
+}
+
+.container {
+    width: 1140px;
+    margin: 0 auto;
+}
+
+/* Header */
+header .container {
+    display: flex;
+    justify-content: space-between;
+}
+
+header ul {
+    display: flex;
+    gap: 20px;
+}
+
+header a {
+    color: #1F1534;
+}
+
+/* Intro */
+.intro .container {
+    display: flex;
+    align-items: center;
+    gap: 100px;
+}
+
+.intro h1 {
+    font-size: 52px;
+}
+
+.intro p {
+    color: #707987;
+    line-height: 28px;
+}
+
+.intro a {
+    background-color: #458FF6;
+    padding: 10px 20px;
+    color: white;
+    border-radius: 30px;
+}
+
+.rrrr {
+    text-align: center;
+
+}
+
+.Text {
+    text-align: center;
+}
+
+.yyyy {
+    text-align: center;
+    width: 950px;
+    margin: 0 auto;
+    margin-bottom: 25px;
+    color: #7D7987;
+}
+
+.imgtext {
+    margin-bottom: 25px;
+}
+
+.services h2 {
+    text-align: center;
+}
+
+.top {
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.bott {
+    display: flex;
+    justify-content: space-between;
+}
+
+.services .service {
+    background-color: #E7E7E7;
+    width: 28%;
+    padding-left: 20px;
+    padding-top: 20px;
+    padding-right: 20px;
+    border-radius: 20px;
+    margin-bottom: 30px;
+}
+
+.services .service:hover {
+    background-color: #5A98F2;
+    color: white;
+}
+.learn{
+    padding: 10px 20px;
+    color: 458FF6;
+    border-radius: 30px;
+    border: 2px solid #458FF6;
+}
+/* Intro2  */
+.intro2 .container2 { 
+    display: flex;
+    gap: 100px;
+    justify-content: center;
+}
+.intro2 h2 {
+    font-size: 52px;
+}
+
+.intro2 p {
+    color: #707987;
+    line-height: 28px;
+}
+
+.intro2 a {
+    background-color: #458FF6;
+    padding: 10px 20px;
+    color: white;
+    border-radius: 30px;
+}
+.Text2{
+    text-align: center;
+    font-size: 36px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.top2 {
+    display: flex;
+    justify-content: space-around;
+
+}
+.services2 h2 {
+    text-align: center;
+}
+.service2 {
+    background-color: #fffefe;
+    width: 24%;
+    padding-left: 0px;
+    padding-top: 0px;
+    border-radius: 10px;
+}
+.im {
+    width: 100%;
+}
+.aa{
+    color: #4089ED;
+}
+.oo{
+    width: 80%;
+}
